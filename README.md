@@ -2,7 +2,13 @@
 This is a python script that allows you to create  a web server with termux in android.
 
 <h4>To run this program open **termux** and write the above commands<h4>
-<p>First you need to install the requirements</p>
+First download the repo
+<pre>
+<code>git clone https://github.com/mossygr/android_server.git
+</code
+</pre>
+
+Second you need to install the requirements
 
 <pre>
 <code>
